@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Alladin Melico</h1>
-<h3 align="center">Fullstack developer based in Philippines 🇵🇭</h3>
+<h3 align="center">Fullstack developer based in the Philippines 🇵🇭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alladinmelico&label=Profile%20views&color=0e75b6&style=flat" alt="alladinmelico" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alladinmelico" alt="alladinmelico" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **React Native, Swift**
 
 - 👨‍💻 All of my projects are available at [https://alladinmelico.github.io/](https://alladinmelico.github.io/)
+
+- 📝 I regularly write articles on [https://dev.to/alladinmelico](https://dev.to/alladinmelico)
 
 - 💬 Ask me about **React, Vue, Laravel, Tailwind**
 
 - 📫 How to reach me **melico.alladin@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I graduated Magna Cum Laude and the top 1 of our batch.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
