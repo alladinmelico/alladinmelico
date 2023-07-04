@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alladinmelico" alt="alladinmelico" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Swift**
+- 🌱 I’m currently learning **.NET, ExtJS**
 
 - 👨‍💻 All of my projects are available at [https://alladinmelico.github.io/](https://alladinmelico.github.io/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **melico.alladin@gmail.com**
 
-- ⚡ Fun fact **I graduated Magna Cum Laude and the top 1 of our batch.**
+- ⚡ Fun fact **"I won a hackathon that aims to develop software solutions to ease everyday lives during the pandemic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
