@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alladin Melico</h1>
 <h3 align="center">Fullstack developer based in the Philippines 🇵🇭</h3>
-<h4 align="center">Check my Online Portfoio at [https://alladinmelico.github.io](https://alladinmelico.github.io)</h2>
+<h4 align="center">Check my Online Portfoio at alladinmelico.github.io</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alladinmelico&label=Profile%20views&color=0e75b6&style=flat" alt="alladinmelico" /> </p>
 
