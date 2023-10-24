@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alladin Melico</h1>
+<h1 align="center">Hi 👋, I'm [Alladin Melico](https://alladinmelico.github.io/)</h1>
 <h3 align="center">Fullstack developer based in the Philippines 🇵🇭</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alladinmelico&label=Profile%20views&color=0e75b6&style=flat" alt="alladinmelico" /> </p>
