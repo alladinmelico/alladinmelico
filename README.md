@@ -7,12 +7,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alladinmelico" alt="alladinmelico" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://alladinmelico.github.io/](https://alladinmelico.github.io/)
+- 👨‍💻 All of my projects are available at [https://alladinmelico.dev](https://alladinmelico.dev/)
 - 🌱 I’m currently learning **Astro**
 
 - 📝 I regularly write articles on [https://dev.to/alladinmelico](https://dev.to/alladinmelico)
 
-- 💬 Ask me about **React, Vue, Laravel, Tailwind**
+- 💬 Ask me about **React, Vue, Typescript, Laravel, Tailwind**
 
 - 📫 How to reach me **melico.alladin@gmail.com**
 
