@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **melico.alladin@gmail.com**
 
-- ⚡ Fun fact **"I won a hackathon that aims to develop software solutions to ease everyday lives during the pandemic.**
+- ⚡ Fun fact **I won a hackathon that aims to develop software solutions to ease everyday lives during the pandemic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
